@@ -4,9 +4,9 @@ Cap. 3 Desvio encadeado, Composto e Simples
 
 Capítulo 3: Cálculo do Imposto de Renda utilizando entrada e saída de dados com estruturas condicionais compostas.
 
-
+| :placard: FIAP |  CAP. 3   |
 | -------------  | --- |
-| :sparkles: Nome        | **Calculo de Imposto**
+| :sparkles: Nome        | **Calculo De Imposto**
 | :label: Tecnologias | Python
 
 

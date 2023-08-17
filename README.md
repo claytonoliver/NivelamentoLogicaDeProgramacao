@@ -18,7 +18,7 @@ Critérios
 
 Base de cálculo	                Alíquota
 
-Até R$ 2.112,00	-	-           isento
+Até R$ 2.112,00	-	-           isento<br/>
 De R$ 2.112,01 até R$ 2.826,65	7,5% <br/>
 De R$ 2.826,66 até R$ 3.751,05	15,0%<br/>
 De R$ 3.751,06 até R$ 4.664,68	22,5%<br/>

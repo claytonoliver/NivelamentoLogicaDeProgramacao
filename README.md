@@ -66,6 +66,7 @@ Fim Se
 // Exibir o valor do imposto de renda
 
 Escreva "O valor do Imposto de Renda é: ", imposto
+Escreva "O valor do Imposto de Renda é: ", imposto
 
 Fim
 ~~~~

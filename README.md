@@ -63,10 +63,12 @@ Senão
     
 Fim Se
 
+r_liquido = renda - imposto
+
 // Exibir o valor do imposto de renda
 
 Escreva "O valor do Imposto de Renda é: ", imposto
-Escreva "O valor do Imposto de Renda é: ", imposto
+Escreva "Sua renda Liquida é: ", r_liquido
 
 Fim
 ~~~~
